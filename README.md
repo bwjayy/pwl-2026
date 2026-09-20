@@ -6,7 +6,7 @@
   <!-- TOMBOL / BADGES (Versi Bahasa Indonesia) -->
   <img src="https://img.shields.io/badge/Status-Aktif-brightgreen?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Mata_Kuliah-PWL-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Semester-4-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Semester-3-orange?style=for-the-badge" />
 </div>
 
 ---
