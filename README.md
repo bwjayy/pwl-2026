@@ -23,6 +23,7 @@
 | Pertemuan | Materi | Link Folder |
 | :---: | :---: | :---: |
 | 05 | Fungsi Koneksi PHP dan MySQL | [Buka Folder](./Pertemuan5) |
+| 06 | Fungsi CRUD Dengan PHP | [Buka Folder](./Pertemuan_6) |
 
 
 ---
