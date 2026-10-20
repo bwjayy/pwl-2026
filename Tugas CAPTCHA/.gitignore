@@ -1,0 +1,15 @@
+/vendor/
+composer.phar
+
+*.log
+cookie*.txt
+c.txt
+
+.env
+.idea/
+.vscode/
+*.swp
+*.swo
+
+.DS_Store
+Thumbs.db

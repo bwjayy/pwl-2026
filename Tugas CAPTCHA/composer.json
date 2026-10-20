@@ -1,0 +1,11 @@
+{
+    "name": "pwl/uts-iam",
+    "description": "Sistem Manajemen Identitas dan Hak Akses TIK PNJ",
+    "type": "project",
+    "require": {
+        "ramsey/uuid": "^4.7"
+    },
+    "scripts": {
+        "serve": "php -S localhost:5000 index.php"
+    }
+}
